@@ -1,6 +1,6 @@
 # 📝 Todo App (with Toaster Notifications & Local Storage)
 
-A simple and interactive **Todo Application** built using **Vanilla JavaScript**, **HTML**, and **CSS**. This app helps users manage their daily tasks efficiently with **live toaster notifications** and **persistent data storage** using **Local Storage**.
+A simple and interactive **Todo Application** built using **JavaScript**, **HTML**, and **TailwindCSS**. This app helps users manage their daily tasks efficiently with **live toaster notifications** and **persistent data storage** using **Local Storage**.
 
 ---
 
@@ -28,8 +28,8 @@ A simple and interactive **Todo Application** built using **Vanilla JavaScript**
 ## 🛠️ Technologies Used
 
 * HTML5
-* CSS3
-* Vanilla JavaScript
+* TAILWINDCSS
+* JavaScript
 * Local Storage API
 * Custom Toaster Notification System
 
@@ -57,7 +57,7 @@ These notifications improve user experience by giving instant feedback.
 
 ---
 
-## 💾 Local Storage
+💾 Local Storage
 
 All todos are saved using **Local Storage**, which means:
 
@@ -67,7 +67,7 @@ All todos are saved using **Local Storage**, which means:
 
 ---
 
-## 📏 Auto Height Adjustment
+📏 Auto Height Adjustment
 
 Todo items automatically adjust their height based on content length. This allows:
 
@@ -77,7 +77,7 @@ Todo items automatically adjust their height based on content length. This allow
 
 ---
 
-## 🧠 How It Works
+🧠 How It Works
 
 * Todos are stored in an array
 * The array is saved in Local Storage
@@ -86,7 +86,7 @@ Todo items automatically adjust their height based on content length. This allow
 * Toaster gives real-time feedback
 
 
-## 🙌 Acknowledgement
+🙌 Acknowledgement
 
 This project was built for learning and practice purposes. Feel free to use and improve it.
 
